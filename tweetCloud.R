@@ -1,3 +1,6 @@
+# This code is mainly based on the free texbook "Introduction to Data Science"
+# written by Jeffrey Stanton. 
+
 # EnsurePackage(x) - Install and load a package if necessary.
 EnsurePackage <- function(x) {
   x <- as.character(x)
